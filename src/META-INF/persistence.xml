@@ -8,18 +8,18 @@
 
 		<jta-data-source>java:/bibliotecaDS</jta-data-source>
 		
-		<class>br.com.easyjavamagazine.entidades.Autor</class>
-		<class>br.com.easyjavamagazine.entidades.Categoria</class>
-		<class>br.com.easyjavamagazine.entidades.Editora</class>
-		<class>br.com.easyjavamagazine.entidades.Emprestimo</class>
-		<class>br.com.easyjavamagazine.entidades.Endereco</class>
-		<class>br.com.easyjavamagazine.entidades.FuncionarioBiblioteca</class>
-		<class>br.com.easyjavamagazine.entidades.Leitor</class>
-		<class>br.com.easyjavamagazine.entidades.Livro</class>
-		<class>br.com.easyjavamagazine.entidades.Pessoa</class>
-		<class>br.com.easyjavamagazine.entidades.Telefone</class>
-		<class>br.com.easyjavamagazine.entidades.Usuario</class>
-		<class>br.com.easyjavamagazine.conversores.LocalDateConversor</class>
+		<class>br.com.javamagazine.entidades.Autor</class>
+		<class>br.com.javamagazine.entidades.Categoria</class>
+		<class>br.com.javamagazine.entidades.Editora</class>
+		<class>br.com.javamagazine.entidades.Emprestimo</class>
+		<class>br.com.javamagazine.entidades.Endereco</class>
+		<class>br.com.javamagazine.entidades.FuncionarioBiblioteca</class>
+		<class>br.com.javamagazine.entidades.Leitor</class>
+		<class>br.com.javamagazine.entidades.Livro</class>
+		<class>br.com.javamagazine.entidades.Pessoa</class>
+		<class>br.com.javamagazine.entidades.Telefone</class>
+		<class>br.com.javamagazine.entidades.Usuario</class>
+		<class>br.com.javamagazine.conversores.LocalDateConversor</class>
 
 		<properties>
 		
